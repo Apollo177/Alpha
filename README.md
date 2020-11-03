@@ -1,2 +1,2 @@
-# alpha
+# Alpha
 Project Alpha Repository
