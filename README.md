@@ -11,8 +11,8 @@ Project Aplha Outline
     4) Create Subnet
     5) Associate Subnet with Route Table
     6) Create Security Group to allow ports: 22, 80, 443
-    7) Assign NIC with IP 
-    8) Assign Elastic IP to NIC
+    7) Assign ENI with EIP 
+    8) Assign Elastic IP to ENI
     9) Creat IAM Role to acces S3
     10) Create Linux Server and Install/Enable Apache2
     11) Enable VCP Endpoint
