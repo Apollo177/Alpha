@@ -1,7 +1,7 @@
 # Alpha
 Project Alpha Repository
 
-This is a repository for the files containing my bery first Terraform/AWS project - I will include all files used.
+This is a repository for the files containing my very first Terraform/AWS project - I will include all files used.
 This project was aided by FreeCodeCamp's tutorial but I added many aspects to it, and because it is my first project, it likely has a lot of inefficiency but I hope one day I can look at this in the future and see how long I've come. the basic outline for this project are as follows:
 
 Project Aplha Outline
